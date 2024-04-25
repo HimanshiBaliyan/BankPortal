@@ -1,0 +1,11 @@
+
+CR|6077|-|Himanshi Baliyan | August 25, 2021 12:38:17 AM|New Account|0|0
+CR|6077|-|Himanshi Baliyan | August 25, 2021 12:38:17 AM|Deposit|100|100
+CR|6077|-|himanshi baliyan| August 25, 2021 12:40:36 AM|Deposit|2000|2100
+CR|6077|-|himanshi baliyan| August 25, 2021 12:41:46 AM|Deposit|10|2110
+CR|6077|-|himanshi baliyan| August 25, 2021 12:42:26 AM|Deposit|10|2120
+CR|6077|-|Himanshi| August 25, 2021 04:40:11 PM|Deposit|880|3000
+CR|6077|-|himanshi baliyan| August 25, 2021 04:54:28 PM|Deposit|500|3500
+CR|6077|-|himanshi baliyan| August 26, 2021 12:42:39 AM|Deposit|11|3511
+Receive|6077|3923|himanshi baliyan| August 26, 2021 12:58:48 AM|Deposit|989|4500
+Receive|6077|7880|Himanshi| July 21, 2022 04:00:16 PM|Deposit|5000|9500

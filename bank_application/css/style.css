@@ -1,0 +1,177 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    /* overflow: hidden; */
+    background-image: url("../images/bank_bg.jpg");
+    background-position: center;
+    background-size: 100% 100vh;
+    background-attachment: fixed;
+    overflow-y: hidden;
+}
+.main{
+    /* background-color: aqua; */
+    width:100%;
+    height:100vh;
+}
+.main .opt{
+    background-color: azure;
+    width:25%;
+    height:100vh;
+    float:left;
+    /* border-right: 0.5px solid grey; */
+}
+
+.opt .panel{
+    width: 25%;
+    height: 100%;
+    position: fixed;
+    /* background-color: sandybrown; */
+}
+.opt .panel .logo{
+    width: 70%;
+    height:60px;
+    margin:auto;
+    margin-top: 40px;
+}
+.logo a{
+    text-decoration: none;
+}
+.logo h2{
+    font-weight: 100;
+    font-size: 30px;
+    color:red;
+}
+.logo span{
+    background-color: red;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 30px;
+    color:white;
+}
+.panel .option{
+    background-color: rgba(233, 233, 233,0.4);
+    width: 80%;
+    height: auto;
+    position: relative;
+    top: 5em;
+    margin: auto;
+}
+.option ul{
+    list-style: none;
+}
+.option ul li{
+    font-size: 21px;
+    line-height: 60px;
+    padding-left: 25px;
+}
+.option ul li a{
+    text-decoration: none;
+    color:grey;
+}
+.option ul li a:hover{
+    color:red;
+}
+
+/* right section */
+
+.right-section{
+    width: 75%;
+    height: 100vh;
+    /* background-color: seagreen; */
+    padding: 5rem;
+    float: left;
+    box-sizing: border-box;
+    overflow-y: scroll;
+}
+.right-section::-webkit-scrollbar{
+    background-color: azure;
+    width: 0.4em;
+}
+
+.right-section::-webkit-scrollbar-thumb{
+    background-color: red;
+    border-radius: 6rem;
+}
+.right-section .panel-right{
+    width: 100%;
+    height: auto;
+    /* background-color: sandybrown; */
+}
+.page{
+    width: 100%;
+    height: auto;
+}
+.details{
+    width: 100%;
+    height: auto;
+    background: rgba(245, 20, 20, 0.7);
+    padding: 5em;
+    box-sizing: border-box;
+    color: #FFF;
+}
+.details h2{
+    padding: 20px;
+    font-weight: 200;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 26px;
+}
+.details .form-pan{
+    width: 80%;
+    height: auto;
+    margin-left: 100px;
+    margin-top:10px;
+    /* background-color: sienna; */
+}
+.form-pan label{
+    font-size: 17px;
+}
+.form-pan input[type=text],
+.form-pan input[type=date]{
+    width: 50%;
+    outline: none;
+    height: 50px;
+    border: 2px solid rgb(26, 25, 25);
+}
+.form-pan input[type=text]:focus{
+    border-color:#F00 ;
+}
+.form-pan input[type=submit]{
+    border: 1px solid #000;
+    background-color: #111111;
+    color: #FFF;
+    cursor: pointer;
+    height: 50px;
+    width: 20%;
+}
+
+.form-pan input[type=submit]:hover{
+    box-shadow: 2px 2px 5px #000;
+    background-color: rgb(92, 84, 87);
+    border: none;
+}
+.form-pan input[type=submit]:active{
+    box-shadow: none;
+    border: none;
+}
+.message-box{
+    width: 100%;
+    height: auto;
+    margin-top: 15px;
+    /* background-color: rebeccapurple; */
+}
+.message-box .alert_msg{
+    width: 40%;
+    height: auto;
+    background-color: white;
+    color:red;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-left: 100px;
+}
+.alert_msg p{
+    line-height: 30px;
+    margin: 0;
+}

@@ -1,0 +1,18 @@
+
+CR|3923|-|shubham| August 23, 2021 04:15:56 PM|New Account|0|0
+CR|3923|-|shubham| August 23, 2021 04:15:56 PM|Deposit|100|100
+CR|3923|-|shubham| August 23, 2021 04:16:56 PM|Deposit|100|200
+CR|3923|-|shubham| August 23, 2021 04:17:17 PM|Deposit|1|201
+CR|3923|-|shubham| August 23, 2021 04:22:07 PM|Deposit|20|221
+CR|3923|-|shubham| August 23, 2021 04:22:59 PM|Deposit|2|223
+CR|3923|-|shubham| August 23, 2021 04:23:35 PM|Deposit|499|722
+DB|3923|-|shubham| August 23, 2021 04:38:46 PM|Widthdraw|700|22
+DB|3923|-|shubham| August 25, 2021 12:41:46 AM|Widthdraw|10|12
+DB|3923|-|shubham| August 25, 2021 12:42:26 AM|Widthdraw|10|2
+CR|3923|-|shubham| August 25, 2021 04:27:35 PM|Deposit|4500|4502
+DB|3923|-|shubham| August 25, 2021 04:40:50 PM|Widthdraw|2|4500
+Transfer|3923|6077|shubham| August 25, 2021 04:54:28 PM|Widthdraw|500|4000
+Transfer|3923|6077|shubham| August 26, 2021 12:42:39 AM|Widthdraw|11|3989
+CR|3923|-|shubham| August 26, 2021 12:57:08 AM|Deposit|12000|15989
+DB|3923|-|shubham| August 26, 2021 12:58:18 AM|Widthdraw|1000|14989
+Transfer|3923|6077|shubham| August 26, 2021 12:58:48 AM|Widthdraw|989|14000

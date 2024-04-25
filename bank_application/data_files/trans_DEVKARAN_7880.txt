@@ -1,0 +1,5 @@
+
+CR|7880|-|Devkaran Chahal| July 21, 2022 03:58:48 PM|New Account|0|0
+CR|7880|-|Devkaran Chahal| July 21, 2022 03:58:48 PM|Deposit|12000|12000
+Transfer|7880|6077|Devkaran Chahal| July 21, 2022 04:00:16 PM|Widthdraw|5000|7000
+CR|7880|-|DEVKARAN| March 07, 2023 10:48:55 PM|Deposit|20000|27000
